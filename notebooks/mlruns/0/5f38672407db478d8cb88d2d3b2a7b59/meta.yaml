@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/jesui/Documents/pipeline-dados-2025/notebooks/mlruns/0/5f38672407db478d8cb88d2d3b2a7b59/artifacts
+end_time: 1738628442088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f38672407db478d8cb88d2d3b2a7b59
+run_name: lyrical-cat-747
+run_uuid: 5f38672407db478d8cb88d2d3b2a7b59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738628427198
+status: 3
+tags: []
+user_id: jesuino

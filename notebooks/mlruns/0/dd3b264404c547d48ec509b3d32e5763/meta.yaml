@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/jesui/Documents/pipeline-dados-2025/notebooks/mlruns/0/dd3b264404c547d48ec509b3d32e5763/artifacts
+end_time: 1738791644696
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd3b264404c547d48ec509b3d32e5763
+run_name: likeable-stork-249
+run_uuid: dd3b264404c547d48ec509b3d32e5763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738791609462
+status: 3
+tags: []
+user_id: jesuino

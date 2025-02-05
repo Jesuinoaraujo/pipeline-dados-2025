@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/jesui/Documents/pipeline-dados-2025/notebooks/mlruns/0/a5a1088eacb64cb9a34c23fd9a3f1346/artifacts
+end_time: 1738638190475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5a1088eacb64cb9a34c23fd9a3f1346
+run_name: welcoming-turtle-622
+run_uuid: a5a1088eacb64cb9a34c23fd9a3f1346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738638159949
+status: 3
+tags: []
+user_id: jesuino

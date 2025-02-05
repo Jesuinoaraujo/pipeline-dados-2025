@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/jesui/Documents/pipeline-dados-2025/notebooks/mlruns/0/59d582565a414c20b233cd7a40a6bfb0/artifacts
+end_time: 1738638222443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59d582565a414c20b233cd7a40a6bfb0
+run_name: resilient-fox-450
+run_uuid: 59d582565a414c20b233cd7a40a6bfb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738638206199
+status: 3
+tags: []
+user_id: jesuino

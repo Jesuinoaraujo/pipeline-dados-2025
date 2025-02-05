@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/jesui/Documents/pipeline-dados-2025/notebooks/mlruns/0/62de3e2cba234ab99408ac6a8735d998/artifacts
+end_time: 1738791954162
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62de3e2cba234ab99408ac6a8735d998
+run_name: rumbling-finch-205
+run_uuid: 62de3e2cba234ab99408ac6a8735d998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738791923017
+status: 3
+tags: []
+user_id: jesuino

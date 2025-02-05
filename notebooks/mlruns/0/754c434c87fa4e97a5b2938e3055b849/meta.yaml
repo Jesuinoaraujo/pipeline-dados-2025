@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/jesui/Documents/pipeline-dados-2025/notebooks/mlruns/0/754c434c87fa4e97a5b2938e3055b849/artifacts
+end_time: 1738636079265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 754c434c87fa4e97a5b2938e3055b849
+run_name: sassy-wren-499
+run_uuid: 754c434c87fa4e97a5b2938e3055b849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738636047732
+status: 3
+tags: []
+user_id: jesuino
