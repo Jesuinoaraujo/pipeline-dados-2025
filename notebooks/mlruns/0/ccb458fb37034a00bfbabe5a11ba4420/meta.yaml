@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/jesui/Documents/pipeline-dados-2025/notebooks/mlruns/0/ccb458fb37034a00bfbabe5a11ba4420/artifacts
+end_time: 1738794032070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccb458fb37034a00bfbabe5a11ba4420
+run_name: omniscient-goose-839
+run_uuid: ccb458fb37034a00bfbabe5a11ba4420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738793986903
+status: 3
+tags: []
+user_id: jesuino

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/jesui/Documents/pipeline-dados-2025/notebooks/mlruns/0/a25ff8cfad8c4b5ead2a4696a52ff26c/artifacts
+end_time: 1738793920255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a25ff8cfad8c4b5ead2a4696a52ff26c
+run_name: kindly-tern-50
+run_uuid: a25ff8cfad8c4b5ead2a4696a52ff26c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738793888701
+status: 3
+tags: []
+user_id: jesuino
